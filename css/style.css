@@ -219,11 +219,6 @@ body {
 	width: 100%;
 }
 
-.itemsContainer ul {
-	display: flex;
-}
-
-
 .items li img {
 	width: 100%;
 	-webkit-transition: all 0.2s linear, 1s;
@@ -377,19 +372,3 @@ body {
 	height: 100%;
 	background: url(../img/loader.gif) center center no-repeat;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

@@ -1,0 +1,37 @@
+[
+    {
+        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
+        "image": "img/portfolio/dog.jpeg",
+        "caption": "This is a cute dog",
+        "category": "js",
+        "link": "/projects/js/expanding-cards/index.html"
+    },
+    {
+        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
+        "image": "img/portfolio/dog.jpeg",
+        "caption": "This is a cute dog",
+        "category": "js",
+        "link": "/projects/js/expanding-cards/index.html"
+    },
+    {
+        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
+        "image": "img/portfolio/dog.jpeg",
+        "caption": "This is a cute dog",
+        "category": "js",
+        "link": "/projects/js/expanding-cards/index.html"
+    },
+    {
+        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
+        "image": "img/portfolio/dog.jpeg",
+        "caption": "This is a cute dog",
+        "category": "js",
+        "link": "/projects/js/expanding-cards/index.html"
+    },
+    {
+        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
+        "image": "img/portfolio/dog.jpeg",
+        "caption": "This is a cute dog",
+        "category": "js",
+        "link": "/projects/js/expanding-cards/index.html"
+    }
+]
