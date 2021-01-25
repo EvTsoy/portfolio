@@ -144,6 +144,10 @@ body {
 	color: #e74c3c;
 }
 
+.squareContent h2:after {
+	content: '+';
+}
+
 .squareContent h3 {
 	font-size: 13px;
 	font-weight: 600;
