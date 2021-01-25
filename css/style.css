@@ -211,11 +211,16 @@ body {
 
 .items li {
 	display: inline-block;
+	width: 150px;
 	padding: 5px;
 }
 
 .itemsContainer {
 	width: 100%;
+}
+
+.itemsContainer ul {
+	display: flex;
 }
 
 
