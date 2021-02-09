@@ -13,14 +13,14 @@ window.onload = function () {
     function insertPortfolioData(data) {
         items.innerHTML = '';
         for (let item of data) {
-            const { thumbnail, image, caption, category, link } = item;
+            const { image, caption, category, link } = item;
             const html = `
             <li class="${category} col-xs-6 col-sm-4 col-md-3 col-lg-3">
                 <div class="item">
                     <img src="${image}">
                     <div class="icons">
                         <a href="${image}" title="View image" class="openButton" data-fancybox
-                            data-caption="This is a cute dog">
+                            data-caption="${caption}">
                             <i class="fa fa-search"></i>
                         </a>
                         <a href="${link}" target="_blank" class="projectLink">

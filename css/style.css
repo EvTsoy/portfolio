@@ -229,9 +229,17 @@ body {
 }
 
 .items .item {
+	border: 4px solid #e74c3c;
 	position: relative;
 	display: block;
 	overflow: hidden;
+	width: 120px;
+	height: 70px;
+}
+
+.items .item img {
+	height: 100%;
+	object-fit: cover;
 }
 
 .items .icons {

@@ -1,37 +1,32 @@
 [
     {
-        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
-        "image": "img/portfolio/dog.jpeg",
-        "caption": "This is a cute dog",
+        "image": "img/portfolio/js1.png",
+        "caption": "Project1: Expanding cards",
         "category": "js",
-        "link": "/projects/js/expanding-cards/index.html"
+        "link": "/projects/js/expanding-cards"
     },
     {
-        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
-        "image": "img/portfolio/dog.jpeg",
+        "image": "img/portfolio/cssHomer.png",
         "caption": "This is a cute dog",
-        "category": "js",
-        "link": "/projects/js/expanding-cards/index.html"
+        "category": "css",
+        "link": "/projects/css/shelf"
     },
     {
-        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
-        "image": "img/portfolio/dog.jpeg",
+        "image": "img/portfolio/cssShelf.png",
         "caption": "This is a cute dog",
-        "category": "js",
-        "link": "/projects/js/expanding-cards/index.html"
+        "category": "css",
+        "link": "/projects/css/shelf"
     },
     {
-        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
-        "image": "img/portfolio/dog.jpeg",
+        "image": "img/portfolio/js1.png",
         "caption": "This is a cute dog",
-        "category": "js",
-        "link": "/projects/js/expanding-cards/index.html"
+        "category": "python",
+        "link": "/projects/js/expanding-cards"
     },
     {
-        "thumbnail": "img/portfolio/thumbnails/dog-square.jpeg",
-        "image": "img/portfolio/dog.jpeg",
+        "image": "img/portfolio/js1.png",
         "caption": "This is a cute dog",
         "category": "js",
-        "link": "/projects/js/expanding-cards/index.html"
+        "link": "/projects/js/expanding-cards"
     }
 ]
