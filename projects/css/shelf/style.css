@@ -1,19 +1,27 @@
+:root {
+  --shelf-color: #5a3f21;
+}
+
 body {
   background: #ECD590;
   margin: 0;
   padding: 0;
   height: 100vh;
-  display: flex;
+  /* display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: center; */
 }
 
 .shelf {
   position: relative;
+  margin: auto;
+  /* top: 50%;
+  left: 50%;
+  transform: translateX(-50%); */
   width: 520px;
   height: 20px;
-  background-color: #5a3f21;
-  margin-top: 70px;
+  background-color: var(--shelf-color);
+  margin-top: 50%;
 }
 
 .clock {
@@ -72,8 +80,8 @@ body {
   background-color: #5AA668;
   border-radius: 90px 90px 0 0;
   position: absolute;
-  left: -38px;
   top: -12px;
+  left: -38px;
   transform: rotate(-50deg);
 }
 

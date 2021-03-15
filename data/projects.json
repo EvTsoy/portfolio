@@ -7,21 +7,27 @@
     },
     {
         "image": "img/portfolio/cssHomer.png",
-        "caption": "This is a cute dog",
+        "caption": "Homer pure CSS",
         "category": "css",
         "link": "/projects/css/shelf"
     },
     {
         "image": "img/portfolio/cssShelf.png",
-        "caption": "This is a cute dog",
+        "caption": "Shelf pure CSS",
         "category": "css",
         "link": "/projects/css/shelf"
     },
     {
-        "image": "img/portfolio/js1.png",
-        "caption": "This is a cute dog",
-        "category": "python",
-        "link": "/projects/js/expanding-cards"
+        "image": "img/portfolio/cssAurora.png",
+        "caption": "Aurora camping",
+        "category": "css",
+        "link": "/projects/js/aurora"
+    },
+    {
+        "image": "img/portfolio/cssPricetable.png",
+        "caption": "Pricetable",
+        "category": "css",
+        "link": "/projects/css/pricetable"
     },
     {
         "image": "img/portfolio/js1.png",
